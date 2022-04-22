@@ -1,0 +1,14 @@
+#reload countrycolors
+
+INR = {
+	color = rgb { 32 117 47 }
+	color_ui = rgb { 32 117 47 }
+}
+AUK = {
+	color = rgb { 78 145 90 }
+	color_ui = rgb { 78 145 90 }
+}
+HND = {
+	color = rgb { 159 87 173 }
+	color_ui = rgb { 159 87 173 }
+}

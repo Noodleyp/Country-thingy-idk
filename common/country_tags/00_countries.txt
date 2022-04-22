@@ -1,0 +1,4 @@
+INR = "countries/world.txt"
+AUK = "countries/world.txt"
+HND = "countries/world.txt"
+UNC = "countries/world.txt"
